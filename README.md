@@ -13,6 +13,7 @@
 - Break on DOM changes
 - Save changes to disk
 - Recent selection history with `$n`
+- Recent console command with `$_`
 
 ##### Debugging
 
